@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <div>
   <h4>👨🏻‍💻 GitHub Usage stats</h4>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ismael-su&count_private=true&include_all_commits=true&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-su&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-su&layout=compact&langs_count=8" />
 </div>
 
 ---
