@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am Freelancer and Co-founder at [Ismaelad](https://ismaeland.com)
 - 🌱 I work with Django, React and odoo CRM
-- 🏗 I’m developing free/paid templates and components on [Ismaeland](https://www.github.com/ismaeland)
+- 🏗 I’m developing free/paid templates and components on [Ismaeland](https://www.github.com/microisce)
 - 💬 Ask me about Django and React Native ! And many more technologies like Python-fastapi framework, Angular, React ... 
 - 📫 How to reach me: iousmanemoussa@gmail.com
 - 🔗 Personal website: WIP
