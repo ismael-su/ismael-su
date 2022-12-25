@@ -30,9 +30,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-- 🔭 I’m currently working on open-source projects (Django and Angular)
-- 🌱 I’m currently learning Quasar framework and odoo CRM
-- 🏗 I’m developing free/paid templates and components on [Microisce](https://www.github.com/microisce)
+- 🔭 I am Freelancer and Co-founder at [Ismaelad](https://ismaeland.com)
+- 🌱 I work with Django, React and odoo CRM
+- 🏗 I’m developing free/paid templates and components on [Ismaeland](https://www.github.com/ismaeland)
 - 💬 Ask me about Django and React Native ! And many more technologies like Python-fastapi framework, Angular, React ... 
 - 📫 How to reach me: iousmanemoussa@gmail.com
 - 🔗 Personal website: WIP
