@@ -1,4 +1,4 @@
-### Hi there 👋 I am Ismaël OUSMANE M. Known as helodev or helnux on internet!
+### Hi there 👋 I am Ismaël !
 
 <!--
 **ismael-su/ismael-su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
