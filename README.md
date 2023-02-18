@@ -30,13 +30,13 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-- 🔭 I am CEO at [ismaelnad](https://ismaeland.com) -  Hiring
+- 🔭 I am CEO at [ismaelnad](https://ismaeland.com) -  I'm Hiring
 - 🌱 I work with Django, React and odoo CRM
 - 🏗 I’m developing free/paid templates and components on [Ismaeland](https://www.github.com/microisce)
 - 💬 Ask me about Django and React Native ! And many more technologies like Python-fastapi framework, Angular, React ... 
 - 📫 How to reach me: ismael@ismaeland.com
-- 🎮 Mobile Gamer
-- 🕺 Casual break dance
+- 🎮 Born Mobile Gamer
+- 🕺 I am a casual break dancer
 
 ---
 
