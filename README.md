@@ -30,7 +30,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-- 🔭 I am Founder at [ismaeland](https://ismaeland.com) -  I'm Hiring
+- 🔭 I am CTO at [Topela](https://123topela.fr) 
+- 🔭 I am Founder at [ismaeland](https://ismaeland.com)
 - 👯 You can also hire me or one of our devs
 - 🌱 I work with Django, React and odoo CRM
 - 🏗 I’m developing free/paid templates and components on [Ismaeland](https://www.github.com/microisce)
