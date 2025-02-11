@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 💖 Sponsor me to support my open source work. https://github.com/sponsors/ismael-su
+- 🔭 I am CTO at [Topela](https://123topela.fr) 
+- 🔭 I am Founder at [ismaeland](https://ismaeland.com)
+- 👯 You can also hire me or one of our devs
+- 🌱 I work with Django, React and odoo CRM
+- 🏗 I’m developing free/paid templates and components on [Ismaeland](https://www.github.com/microisce)
+- 💬 Ask me about Django and React Native ! And many more technologies like Python-fastapi framework, Angular, React ... 
+- 📫 How to reach me: ismael@ismaeland.com
+- 🎮 Born Mobile Gamer
+- 🕺 I am a casual break dancer
 -->
 
 
@@ -30,15 +39,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-- 🔭 I am CTO at [Topela](https://123topela.fr) 
-- 🔭 I am Founder at [ismaeland](https://ismaeland.com)
-- 👯 You can also hire me or one of our devs
-- 🌱 I work with Django, React and odoo CRM
-- 🏗 I’m developing free/paid templates and components on [Ismaeland](https://www.github.com/microisce)
-- 💬 Ask me about Django and React Native ! And many more technologies like Python-fastapi framework, Angular, React ... 
-- 📫 How to reach me: ismael@ismaeland.com
-- 🎮 Born Mobile Gamer
-- 🕺 I am a casual break dancer
+
 
 ---
 
